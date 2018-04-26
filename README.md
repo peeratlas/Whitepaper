@@ -2,5 +2,5 @@
 # Whitepaper
 PeerAtlas Whitepaper
 
-v0.89 - English language
+v0.90 - English language
 April 26, 2018
